@@ -21,7 +21,7 @@
 
 ###
 
-I'm an enthusiastic Software Engineer with a constant desire to improve and learn new things. 
+I'm an Italian enthusiastic Software Engineer based in Germany, with a constant desire to improve and learn new things. 
 I like to write readable, testable and maintainable code to build quality software.
 I define myself a huge fan of tech in general. :sunglasses:
 

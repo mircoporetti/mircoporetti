@@ -71,4 +71,8 @@ I believe in effective communication, clean code and XP practices.
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="35" alt="linux logo"/>
 </div>
 
+---
+
+![Pacman animation](https://raw.githubusercontent.com/mircoporetti/mircoporetti/output/pacman-contribution-graph.svg)
+
 ###

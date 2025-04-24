@@ -34,41 +34,41 @@ I believe in effective communication, clean code and XP practices.
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="40" alt="ts logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elixir/elixir-original.svg" height="40" alt="elixir logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" /> 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="40" alt="react logo"  />
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
-   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"/>
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/helm/helm-original.svg" height="40" alt="helm logo"/>
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="linux logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-plain-wordmark.svg" height="35" alt="java logo"  />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo"  />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="35" alt="js logo"  />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" height="35" alt="ts logo"  />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elixir/elixir-original.svg" height="35" alt="elixir logo"  />
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="35" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
+   <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img width="10" /> 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="35" alt="react logo"  />
+   <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"/>
+   <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="35" alt="github logo"/>
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" height="35" alt="gitlab logo"/>
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/helm/helm-original.svg" height="35" alt="helm logo"/>
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg" height="35" alt="intellij logo"/>
+  <img width="10" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="35" alt="linux logo"/>
 </div>
 
 ###

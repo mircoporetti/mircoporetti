@@ -29,7 +29,7 @@ I believe in effective communication, clean code and XP practices.
 
 ###
 
-<h3 align="left">🛠 Some of my tools</h3>
+<h3 align="left">🛠 Some tools I worked with</h3>
 
 ###
 
